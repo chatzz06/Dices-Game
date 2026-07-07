@@ -29,14 +29,17 @@ A fun and interactive **Two Player Dice Game Web Application** built using HTML,
 5. If both players get the same number, the result is a draw.
 6. Restart the game to play another round.
 
-## two-player-dice-game/
-│
-├── index.html          # Main HTML file
-├── style.css           # Styling file
-├── script.js           # Game logic
-├── assest              # Dice images and other assets
-└── README.md           # Project documentation
+## two-player-dice-game
 
+├── README.md          
+
+├── index.html         
+
+├── style.css          
+
+├── script.js          
+
+├── assest              
 
 ---
 
