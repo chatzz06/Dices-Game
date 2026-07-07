@@ -31,9 +31,11 @@ A fun and interactive **Two Player Dice Game Web Application** built using HTML,
 
 ## two-player-dice-game
 
-├── README.md          
+├── README.md  
 
-├── index.html         
+├── index.html
+
+├── prettierrc
 
 ├── style.css          
 
